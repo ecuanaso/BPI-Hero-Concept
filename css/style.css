@@ -334,6 +334,7 @@ Hero Slider
 }
 
 .cd-hero__btn {
+  border-radius: 6px;
   display: inline-block;
   padding: 1.2em 1.4em;
   margin-top: .8em;
@@ -396,7 +397,7 @@ Hero Slider
   }
   .cd-hero__content h2 {
     font-size: 2.4em;
-    font-weight: 300;
+    font-weight: 500;
   }
   .cd-hero__btn {
     font-size: 1.4rem;
@@ -415,7 +416,7 @@ Hero Slider
     font-size: 3.2em;
   }
   .cd-hero__content p {
-    font-size: 1.6rem;
+    font-size: 18px;
   }
 }
 
