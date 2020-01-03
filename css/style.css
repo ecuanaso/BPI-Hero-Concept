@@ -729,3 +729,24 @@ Hero Slider
 .no-js .cd-hero__nav {
   display: none;
 }
+
+
+/* */
+
+.price {
+  color: white;
+  font-size: 32px;
+  position: relative;
+  left: 20px;
+  top: 3px;
+  font-weight: 600;
+}
+
+.price sup {
+   position: relative;
+  top: -12px;
+ font-size: 53%;
+  line-height: 0;
+   vertical-align: baseline;
+
+}
